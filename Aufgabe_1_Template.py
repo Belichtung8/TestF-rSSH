@@ -1,3 +1,4 @@
+#Hier der Test ob pushen über SSH funktioniert
 """
 Gerüst zur Lösung der Aufgabe 1 zur Übung Algorithmische Lösung technischer Probleme - Interpolation
 """
